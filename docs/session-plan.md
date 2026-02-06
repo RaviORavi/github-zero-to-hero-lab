@@ -9,6 +9,4 @@
 6. Branches
 7. Pull Requests
 8. Issues
-9. Projects
-10. Actions
-11. Releases + Settings
+
